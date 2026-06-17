@@ -37,12 +37,17 @@ A desktop simulation project built using Java.
 
 #### 🔗 [Simple Personal Banking System](https://github.com)
 A secure portal system application built using PHP.
+
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://shion.dev)
-
-![Most Used Languages](https://shion.dev)
+![GitHub Stats](./github-metrics.svg)
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://demolab.com)
+![GitHub Streak](./github-streak.svg)
+
+### 📬 Connect With Me
+
+- GitHub: https://github.com/Amar-best-coder
+
+⭐️ Thanks for visiting my profile!
