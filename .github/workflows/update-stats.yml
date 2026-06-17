@@ -1,0 +1,35 @@
+name: Update Profile Stats Images Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every midnight
+  workflow_dispatch: # Allows you to run it manually right now
+
+jobs:
+  release-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Generate Core Metrics Card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          config_timezone: Africa/Addis_Ababa
+
+      - name: Generate Streak Card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-streak.svg
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Africa/Addis_Ababa
