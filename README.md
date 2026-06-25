@@ -1,49 +1,100 @@
-I'm passionate about Web Development, Desktop Applications, and Software Engineering. I enjoy building responsive websites and functional systems.
+<!-- Header Banner (Optional - needs PC to upload image, but you can skip for now) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Amar-best-coder&fontSize=50&fontColor=fff" width="100%"/>
+</p>
 
-### 🚀 About Me
+<!-- About Me - Centered -->
+<h1 align="center">👋 Hi, I'm Amar</h1>
+<h3 align="center">3rd Year CS Student | Full-Stack & Desktop Developer</h3>
 
-- 🎓 3rd Year Computer Science Student
-- 💻 Full-Stack & Desktop Application Developer
-- 🎯 Proficient in web development, database management, and system design
-- 💡 Special interest in Mobile and Desktop App Development
-
-### 🛠️ Skills
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend & Database:** Java, PHP, MySQL
-- **Core Concepts:** Computer Graphics, UI/UX Design, Desktop Apps (JavaFX)
-
----
-
-### 📂 Featured Projects
-
-#### 🔗 [Personal Portfolio](https://github.com)
-My personal portfolio website project showcasing my skills and design layouts.
-
-#### 🔗 [Yega Coffee Website](https://github.com)
-A web platform created to showcase regional coffee products.
-
-#### 🔗 [Ethiopian Salary Calculator](https://github.com)
-A localized utility application used to compute salary deductions and taxes.
-
-#### 🔗 [Traffic Light Java](https://github.com)
-A desktop simulation project built using Java.
-
-#### 🔗 [Simple Personal Banking System](https://github.com)
-A secure portal system application built using PHP.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amar-best-coder&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Amar-best-coder?label=Followers&style=social" alt="followers" />
+</p>
 
 ---
 
-### 📊 Account Metrics & Stats
+<!-- About Me Section with Icons -->
+### 🧑‍💻 About Me
 
-- 📈 [Click to view my real-time profile stats](https://vercel.app)
-- 💻 [Click to view my code language ratios](https://vercel.app)
-- 🔥 [Click to check my active daily coding streak](https://demolab.com)
+- 🎓 **3rd Year** Computer Science Student  
+- 💻 **Full-Stack** & **Desktop Application** Developer  
+- 🎨 Special interest in **Mobile & Desktop App Development**  
+- 🌱 Currently exploring **Advanced Java & UI/UX Design**
 
 ---
 
-### 📬 Connect With Me
+<!-- Skills Section with Icons (Clean Columns) -->
+### 🛠️ Tech Stack
 
-- 💻 GitHub Profile: https://github.com/Amar-best-coder
+<!-- Using HTML tables to create columns -->
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br /><sub>HTML5</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br /><sub>CSS3</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" /><br /><sub>JavaScript</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br /><sub>Java</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br /><sub>PHP</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br /><sub>MySQL</sub>
+    </td>
+  </tr>
+</table>
 
-⭐️ Thanks for visiting my profile!
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🖥️ **Personal Portfolio** | My personal portfolio website showcasing my design layouts. |
+| ☕ **Yoga Coffee Website** | A web platform created to showcase regional coffee products. |
+| 💰 **Ethiopian Salary Calculator** | A localized utility app for salary deductions and taxes. |
+| 🚦 **Traffic Light Java** | A desktop simulation project built using Java. |
+| 🏦 **Simple Personal Banking System** | A secure portal system built using PHP. |
+
+---
+
+### 📊 GitHub Stats (Live Dashboard)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amar-best-coder&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-best-coder&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar-best-coder&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Amar-best-coder">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer" width="100%"/>
+</p>
