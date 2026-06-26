@@ -3,9 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=amardelil&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- MAIN TYPING ANIMATION (Fixed: Starts perfectly with 'F') -->
+<!-- MAIN TYPING ANIMATION (Starts perfectly with 'F') -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6A11CB&center=true&vCenter=true&width=600&height=70&lines=%E2%9C%A8+Frontend+Developer;%F0%9F%8E%A8+Crafting+Pixel-Perfect+UIs;%E2%9A%A1+Responsive+%26+Modern+Websites" alt="Typing SVG" />
+</p>
+
+<!-- SECONDARY TYPING (New subtitle below main) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=800&color=2575FC&center=true&vCenter=true&width=500&height=40&lines=Building+digital+experiences;Always+learning+%26+improving" alt="Subtitle Typing" />
 </p>
 
 <!-- Title & Role -->
@@ -21,29 +26,46 @@
 
 ---
 
-<!-- About Me -->
+<!-- ABOUT ME (Animated as a clear typing list) -->
 ### 🧑‍💻 About Me
 
-- 🎓 **3rd Year** Computer Science Student  
-- 💻 Passionate **Frontend Developer** crafting seamless digital experiences  
-- 🎨 Special interest in **Mobile-first Design & Desktop Applications**  
-- 🌱 Currently exploring **Advanced UI/UX Patterns & Micro-interactions**  
-- 📧 Email: **programmeramardelil21@gmail.com**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=700&color=6A11CB&center=true&vCenter=true&width=600&height=120&lines=%F0%9F%8E%93+3rd+Year+Computer+Science+Student;%F0%9F%92%BB+Frontend+%26+Java+Developer;%F0%9F%8E%A8+Mobile+%26+Desktop+App+Enthusiast;%F0%9F%8C%B1+Exploring+Advanced+UI%2FUX+Patterns" alt="Animated About Me" />
+</p>
 
 ---
 
-<!-- 🔥 WHAT I DO - Completely Animated & Minimalist (No duplicate icons) -->
+<!-- WHAT I DO (Modern static grid - no speeding text, easy to read) -->
 ### ✨ What I Do
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=600&color=6A11CB&center=true&vCenter=true&width=650&height=80&lines=%E2%9C%A8+Design+Attractive+%26+Modern+Frontends;%F0%9F%8E%A8+Craft+Clean+%26+Intuitive+Interfaces;%E2%9A%A1+Build+Responsive+%26+Lightning-Fast+Websites;%F0%9F%93%B1+Mobile-First+Web+Experiences" alt="Animated What I Do" />
-</p>
 
 > *I turn complex ideas into simple, beautiful, and interactive digital realities.*
 
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <h3>🎨 Modern UI/UX</h3>
+      <sub>Designing clean, intuitive, and attractive interfaces.</sub>
+    </td>
+    <td align="center" width="250">
+      <h3>📱 Responsive Design</h3>
+      <sub>Flawless experiences on all devices & screen sizes.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      <h3>⚡ Performance & SEO</h3>
+      <sub>Optimized code for lightning-fast loading speeds.</sub>
+    </td>
+    <td align="center" width="250">
+      <h3>🛠️ Interactive Logic</h3>
+      <sub>Bringing static pages to life with JavaScript.</sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
-<!-- 📸 PROJECT SHOWCASE (Clean visual grid) -->
+<!-- FEATURED PROJECTS (Untouched - ready for your screenshots) -->
 ### 📸 Featured Projects
 
 <table align="center">
@@ -75,25 +97,52 @@
 
 ---
 
-<!-- 🛠️ TECH STACK (Distinct & Clean) -->
+<!-- TECH STACK (With one-word professional descriptors) -->
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql&perline=6" />
+  <table align="center">
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br />
+        <sub><b>Structure</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br />
+        <sub><b>Styling</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" /><br />
+        <sub><b>Logic</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br />
+        <sub><b>Backend</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br />
+        <sub><b>Scripting</b></sub>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br />
+        <sub><b>Data</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-<!-- 🏆 GITHUB TROPHIES (Fixed Layout - Shows 6 trophies beautifully) -->
+<!-- GITHUB TROPHIES (FIXED: 2 rows x 3 columns - Now working perfectly) -->
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amardelil&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amardelil&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<!-- 📊 GITHUB STATS (Perfectly aligned) -->
+<!-- GITHUB STATS -->
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -107,7 +156,7 @@
 
 ---
 
-<!-- 🤝 CONNECT WITH ME -->
+<!-- CONNECT WITH ME (Twitter removed, Telegram added with phone) -->
 ### 🤝 Let's Connect
 
 <p align="center">
@@ -117,12 +166,15 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://t.me/+251992156362">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:programmeramardelil21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+<p align="center">
+  <sub>📱 Telegram: +251 99 215 6362</sub>
 </p>
 
 ---
