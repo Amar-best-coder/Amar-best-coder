@@ -26,15 +26,29 @@
 
 ---
 
-<!-- ABOUT ME - STATIC BULLET LIST (All visible) -->
+<!-- ABOUT ME - STEP BY STEP STATIC LIST (Permanently Visible) -->
 ### 🧑‍💻 About Me
 
-<ul align="center" style="list-style: none; padding: 0;">
-  <li style="display: inline-block; margin: 10px 20px;">🎓 3rd Year Computer Science Student</li>
-  <li style="display: inline-block; margin: 10px 20px;">💻 Frontend & Java Developer</li>
-  <li style="display: inline-block; margin: 10px 20px;">🎨 Mobile & Desktop App Enthusiast</li>
-  <li style="display: inline-block; margin: 10px 20px;">🌱 Exploring Advanced UI/UX Patterns</li>
-</ul>
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 10px; font-size: 16px;">🎓</td>
+      <td align="left" style="padding: 10px; font-size: 16px;"><b>Step 1:</b> 3rd Year Computer Science Student</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-size: 16px;">💻</td>
+      <td align="left" style="padding: 10px; font-size: 16px;"><b>Step 2:</b> Frontend & Java Developer building clean apps</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-size: 16px;">🎨</td>
+      <td align="left" style="padding: 10px; font-size: 16px;"><b>Step 3:</b> Mobile & Desktop App Design Enthusiast</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; font-size: 16px;">🌱</td>
+      <td align="left" style="padding: 10px; font-size: 16px;"><b>Step 4:</b> Actively exploring advanced UI/UX interaction patterns</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -46,21 +60,21 @@
 <table align="center" cellspacing="20">
   <tr>
     <td align="center" style="background: linear-gradient(135deg, #6A11CB, #2575FC); border-radius: 15px; padding: 25px 40px; color: #fff; box-shadow: 0 8px 20px rgba(106,17,203,0.3);">
-      <h3 style="margin:0;">🎨 Modern UI/UX</h3>
+      <h3 style="margin:0; color: #fff;">🎨 Modern UI/UX</h3>
       <sub style="color: #f0f0ff;">Designing clean, intuitive interfaces</sub>
     </td>
     <td align="center" style="background: linear-gradient(135deg, #FF416C, #FF4B2B); border-radius: 15px; padding: 25px 40px; color: #fff; box-shadow: 0 8px 20px rgba(255,65,108,0.3);">
-      <h3 style="margin:0;">📱 Responsive Design</h3>
+      <h3 style="margin:0; color: #fff;">📱 Responsive Design</h3>
       <sub style="color: #ffe0e0;">Flawless on all devices & sizes</sub>
     </td>
   </tr>
   <tr>
     <td align="center" style="background: linear-gradient(135deg, #11998e, #38ef7d); border-radius: 15px; padding: 25px 40px; color: #fff; box-shadow: 0 8px 20px rgba(17,153,142,0.3);">
-      <h3 style="margin:0;">⚡ Performance & SEO</h3>
+      <h3 style="margin:0; color: #fff;">⚡ Performance & SEO</h3>
       <sub style="color: #e0ffe0;">Optimized for lightning speed</sub>
     </td>
     <td align="center" style="background: linear-gradient(135deg, #f7971e, #ffd200); border-radius: 15px; padding: 25px 40px; color: #333; box-shadow: 0 8px 20px rgba(247,151,30,0.3);">
-      <h3 style="margin:0;">🛠️ Interactive Logic</h3>
+      <h3 style="margin:0; color: #333;">🛠️ Interactive Logic</h3>
       <sub style="color: #444;">Bringing static pages to life</sub>
     </td>
   </tr>
@@ -68,7 +82,7 @@
 
 ---
 
-<!-- FEATURED PROJECTS (Untouched – ready for your screenshots) -->
+<!-- FEATURED PROJECTS -->
 ### 📸 Featured Projects
 
 <table align="center">
@@ -100,7 +114,7 @@
 
 ---
 
-<!-- TECH STACK (With one-word descriptors) -->
+<!-- TECH STACK -->
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -136,7 +150,7 @@
 
 ---
 
-<!-- GITHUB TROPHIES (FIXED: 2 rows x 3 columns) -->
+<!-- GITHUB TROPHIES -->
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -159,7 +173,7 @@
 
 ---
 
-<!-- CONNECT WITH ME (Twitter removed, Telegram only, phone hidden) -->
+<!-- CONNECT WITH ME -->
 ### 🤝 Let's Connect
 
 <p align="center">
@@ -169,7 +183,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/+251992156362">
+  <a href="https://t.me">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:programmeramardelil21@gmail.com">
