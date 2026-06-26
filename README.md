@@ -3,12 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=amardelil&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- MAIN TYPING ANIMATION (Starts perfectly with 'F') -->
+<!-- MAIN TYPING ANIMATION (Starts with 'F') -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6A11CB&center=true&vCenter=true&width=600&height=70&lines=%E2%9C%A8+Frontend+Developer;%F0%9F%8E%A8+Crafting+Pixel-Perfect+UIs;%E2%9A%A1+Responsive+%26+Modern+Websites" alt="Typing SVG" />
 </p>
 
-<!-- SECONDARY TYPING (New subtitle below main) -->
+<!-- Secondary subtitle -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=800&color=2575FC&center=true&vCenter=true&width=500&height=40&lines=Building+digital+experiences;Always+learning+%26+improving" alt="Subtitle Typing" />
 </p>
@@ -26,46 +26,49 @@
 
 ---
 
-<!-- ABOUT ME (Animated as a clear typing list) -->
+<!-- ABOUT ME - STATIC BULLET LIST (All visible) -->
 ### 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=700&color=6A11CB&center=true&vCenter=true&width=600&height=120&lines=%F0%9F%8E%93+3rd+Year+Computer+Science+Student;%F0%9F%92%BB+Frontend+%26+Java+Developer;%F0%9F%8E%A8+Mobile+%26+Desktop+App+Enthusiast;%F0%9F%8C%B1+Exploring+Advanced+UI%2FUX+Patterns" alt="Animated About Me" />
-</p>
+<ul align="center" style="list-style: none; padding: 0;">
+  <li style="display: inline-block; margin: 10px 20px;">🎓 3rd Year Computer Science Student</li>
+  <li style="display: inline-block; margin: 10px 20px;">💻 Frontend & Java Developer</li>
+  <li style="display: inline-block; margin: 10px 20px;">🎨 Mobile & Desktop App Enthusiast</li>
+  <li style="display: inline-block; margin: 10px 20px;">🌱 Exploring Advanced UI/UX Patterns</li>
+</ul>
 
 ---
 
-<!-- WHAT I DO (Modern static grid - no speeding text, easy to read) -->
+<!-- WHAT I DO - COLORFUL RECTANGULAR BOXES -->
 ### ✨ What I Do
 
 > *I turn complex ideas into simple, beautiful, and interactive digital realities.*
 
-<table align="center">
+<table align="center" cellspacing="20">
   <tr>
-    <td align="center" width="250">
-      <h3>🎨 Modern UI/UX</h3>
-      <sub>Designing clean, intuitive, and attractive interfaces.</sub>
+    <td align="center" style="background: linear-gradient(135deg, #6A11CB, #2575FC); border-radius: 15px; padding: 25px 40px; color: #fff; box-shadow: 0 8px 20px rgba(106,17,203,0.3);">
+      <h3 style="margin:0;">🎨 Modern UI/UX</h3>
+      <sub style="color: #f0f0ff;">Designing clean, intuitive interfaces</sub>
     </td>
-    <td align="center" width="250">
-      <h3>📱 Responsive Design</h3>
-      <sub>Flawless experiences on all devices & screen sizes.</sub>
+    <td align="center" style="background: linear-gradient(135deg, #FF416C, #FF4B2B); border-radius: 15px; padding: 25px 40px; color: #fff; box-shadow: 0 8px 20px rgba(255,65,108,0.3);">
+      <h3 style="margin:0;">📱 Responsive Design</h3>
+      <sub style="color: #ffe0e0;">Flawless on all devices & sizes</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="250">
-      <h3>⚡ Performance & SEO</h3>
-      <sub>Optimized code for lightning-fast loading speeds.</sub>
+    <td align="center" style="background: linear-gradient(135deg, #11998e, #38ef7d); border-radius: 15px; padding: 25px 40px; color: #fff; box-shadow: 0 8px 20px rgba(17,153,142,0.3);">
+      <h3 style="margin:0;">⚡ Performance & SEO</h3>
+      <sub style="color: #e0ffe0;">Optimized for lightning speed</sub>
     </td>
-    <td align="center" width="250">
-      <h3>🛠️ Interactive Logic</h3>
-      <sub>Bringing static pages to life with JavaScript.</sub>
+    <td align="center" style="background: linear-gradient(135deg, #f7971e, #ffd200); border-radius: 15px; padding: 25px 40px; color: #333; box-shadow: 0 8px 20px rgba(247,151,30,0.3);">
+      <h3 style="margin:0;">🛠️ Interactive Logic</h3>
+      <sub style="color: #444;">Bringing static pages to life</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- FEATURED PROJECTS (Untouched - ready for your screenshots) -->
+<!-- FEATURED PROJECTS (Untouched – ready for your screenshots) -->
 ### 📸 Featured Projects
 
 <table align="center">
@@ -97,7 +100,7 @@
 
 ---
 
-<!-- TECH STACK (With one-word professional descriptors) -->
+<!-- TECH STACK (With one-word descriptors) -->
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -133,7 +136,7 @@
 
 ---
 
-<!-- GITHUB TROPHIES (FIXED: 2 rows x 3 columns - Now working perfectly) -->
+<!-- GITHUB TROPHIES (FIXED: 2 rows x 3 columns) -->
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -156,7 +159,7 @@
 
 ---
 
-<!-- CONNECT WITH ME (Twitter removed, Telegram added with phone) -->
+<!-- CONNECT WITH ME (Twitter removed, Telegram only, phone hidden) -->
 ### 🤝 Let's Connect
 
 <p align="center">
@@ -172,9 +175,6 @@
   <a href="mailto:programmeramardelil21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-<p align="center">
-  <sub>📱 Telegram: +251 99 215 6362</sub>
 </p>
 
 ---
