@@ -26,38 +26,26 @@
 
 ---
 
-<!-- ABOUT ME - PERMANENTLY VISIBLE STEP-BY-STEP FORMAT -->
+<!-- ABOUT ME - STATIC STEP BY STEP LIST -->
 ### 🧑‍💻 About Me
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse; background: transparent;">
-    <tr style="border: none;">
-      <td style="padding: 12px; font-size: 18px; border: none;">📌</td>
-      <td align="left" style="padding: 12px; font-size: 16px; border: none; line-height: 1.6;">
-        <b>01. Education</b><br/>
-        <sub>3rd Year Computer Science Student</sub>
-      </td>
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 10px; font-size: 16px;">🎓</td>
+      <td align="left" style="padding: 10px; font-size: 16px;"><b>Step 1:</b> 3rd Year Computer Science Student</td>
     </tr>
-    <tr style="border: none;">
-      <td style="padding: 12px; font-size: 18px; border: none;">🚀</td>
-      <td align="left" style="padding: 12px; font-size: 16px; border: none; line-height: 1.6;">
-        <b>02. Core Focus</b><br/>
-        <sub>Frontend & Java Developer building clean, robust applications</sub>
-      </td>
+    <tr>
+      <td style="padding: 10px; font-size: 16px;">💻</td>
+      <td align="left" style="padding: 10px; font-size: 16px;"><b>Step 2:</b> Frontend & Java Developer building clean apps</td>
     </tr>
-    <tr style="border: none;">
-      <td style="padding: 12px; font-size: 18px; border: none;">💻</td>
-      <td align="left" style="padding: 12px; font-size: 16px; border: none; line-height: 1.6;">
-        <b>03. Passion</b><br/>
-        <sub>Mobile & Desktop App Design Enthusiast</sub>
-      </td>
+    <tr>
+      <td style="padding: 10px; font-size: 16px;">🎨</td>
+      <td align="left" style="padding: 10px; font-size: 16px;"><b>Step 3:</b> Mobile & Desktop App Design Enthusiast</td>
     </tr>
-    <tr style="border: none;">
-      <td style="padding: 12px; font-size: 18px; border: none;">🌱</td>
-      <td align="left" style="padding: 12px; font-size: 16px; border: none; line-height: 1.6;">
-        <b>04. Growth</b><br/>
-        <sub>Actively exploring advanced UI/UX interaction patterns</sub>
-      </td>
+    <tr>
+      <td style="padding: 10px; font-size: 16px;">🌱</td>
+      <td align="left" style="padding: 10px; font-size: 16px;"><b>Step 4:</b> Actively exploring advanced UI/UX interaction patterns</td>
     </tr>
   </table>
 </div>
