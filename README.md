@@ -1,16 +1,16 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=amardelil&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
+  <img src="https://vercel.app" width="100%"/>
 </p>
 
 <!-- MAIN TYPING ANIMATION (Starts with 'F') -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=6A11CB&center=true&vCenter=true&width=600&height=70&lines=%E2%9C%A8+Frontend+Developer;%F0%9F%8E%A8+Crafting+Pixel-Perfect+UIs;%E2%9A%A1+Responsive+%26+Modern+Websites" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 <!-- Secondary subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=800&color=2575FC&center=true&vCenter=true&width=500&height=40&lines=Building+digital+experiences;Always+learning+%26+improving" alt="Subtitle Typing" />
+  <img src="https://demolab.com" alt="Subtitle Typing" />
 </p>
 
 <!-- Title & Role -->
@@ -19,14 +19,14 @@
 
 <!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amardelil&label=Profile%20Views&color=6A11CB&style=flat-square&abbreviated=true" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/amardelil?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/amardelil?label=Stars&style=social" alt="stars" />
+  <img src="https://komarev.com" alt="profile views" />
+  <img src="https://shields.io" alt="followers" />
+  <img src="https://shields.io" alt="stars" />
 </p>
 
 ---
 
-<!-- ABOUT ME - STEP BY STEP STATIC LIST (Permanently Visible) -->
+<!-- ABOUT ME - STATIC STEP BY STEP LIST -->
 ### 🧑‍💻 About Me
 
 <div align="center">
@@ -88,24 +88,24 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <img src="https://placehold.co/300x180/6A11CB/FFFFFF?text=Personal+Portfolio" alt="Portfolio" width="280" height="160" />
+      <img src="https://placehold.co" alt="Portfolio" width="280" height="160" />
       <br /><b>🖥️ Personal Portfolio</b>
       <br /><sub>Modern, responsive design with smooth animations.</sub>
     </td>
     <td align="center" width="300">
-      <img src="https://placehold.co/300x180/2575FC/FFFFFF?text=Yoga+Coffee" alt="Coffee Shop" width="280" height="160" />
+      <img src="https://placehold.co" alt="Coffee Shop" width="280" height="160" />
       <br /><b>☕ Yoga Coffee Website</b>
       <br /><sub>Showcasing regional coffee with a clean UI.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
-      <img src="https://placehold.co/300x180/FF7F50/FFFFFF?text=Salary+Calculator" alt="Calculator" width="280" height="160" />
+      <img src="https://placehold.co" alt="Calculator" width="280" height="160" />
       <br /><b>💰 Ethiopian Salary Calculator</b>
       <br /><sub>Localized utility for tax & salary deductions.</sub>
     </td>
     <td align="center" width="300">
-      <img src="https://placehold.co/300x180/4CAF50/FFFFFF?text=Banking+System" alt="Banking" width="280" height="160" />
+      <img src="https://placehold.co" alt="Banking" width="280" height="160" />
       <br /><b>🏦 Personal Banking System</b>
       <br /><sub>Secure PHP portal with transaction management.</sub>
     </td>
@@ -121,27 +121,27 @@
   <table align="center">
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /><br />
+        <img src="https://skillicons.dev" width="48" height="48" alt="HTML" /><br />
         <sub><b>Structure</b></sub>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /><br />
+        <img src="https://skillicons.dev" width="48" height="48" alt="CSS" /><br />
         <sub><b>Styling</b></sub>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JS" /><br />
+        <img src="https://skillicons.dev" width="48" height="48" alt="JS" /><br />
         <sub><b>Logic</b></sub>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br />
+        <img src="https://skillicons.dev" width="48" height="48" alt="Java" /><br />
         <sub><b>Backend</b></sub>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br />
+        <img src="https://skillicons.dev" width="48" height="48" alt="PHP" /><br />
         <sub><b>Scripting</b></sub>
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br />
+        <img src="https://skillicons.dev" width="48" height="48" alt="MySQL" /><br />
         <sub><b>Data</b></sub>
       </td>
     </tr>
@@ -154,7 +154,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amardelil&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://vercel.app" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -163,12 +163,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amardelil&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amardelil&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://vercel.app" />
+  <img width="48%" src="https://vercel.app" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amardelil&theme=radical&hide_border=true" />
+  <img src="https://herokuapp.com" />
 </p>
 
 ---
@@ -177,17 +177,17 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/amardelil">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com">
+    <img src="https://shields.io" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://shields.io" />
   </a>
   <a href="https://t.me">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://shields.io" />
   </a>
   <a href="mailto:programmeramardelil21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://shields.io" />
   </a>
 </p>
 
@@ -195,5 +195,5 @@
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer" width="100%"/>
+  <img src="https://vercel.app" width="100%"/>
 </p>
