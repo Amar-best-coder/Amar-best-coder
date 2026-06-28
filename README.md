@@ -105,31 +105,34 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Personal Portfolio
-[![Portfolio](images/portfolio.png)](https://amardelil.github.io/amardelil/)
-> Modern, responsive portfolio with smooth animations.
-> **[View Project →](https://amardelil.github.io/amardelil/)**
+[![Personal Portfolio](images/portfolio.png)](https://github.com/amardelil/amardelil)
+> Modern, responsive portfolio with smooth animations and interactive elements.
 
-### 🔹 Yegna Coffee
-[![Yegna Coffee](images/yegna-coffee.png)](https://amardelil.github.io/yegna-coffee/)
-> Premium Ethiopian coffee brand landing page.
-> **[View Project →](https://amardelil.github.io/yegna-coffee/)**
-
-### 🔹 Ethiopian Salary Calculator
-[![Salary Calculator](images/salary-calculator.png)](https://amardelil.github.io/ethiopian-salary-calculator/)
-> Calculate net salary after tax and pension in Ethiopia.
-> **[View Project →](https://amardelil.github.io/ethiopian-salary-calculator/)**
-
-### 🔹 Hotel Booking System
-[![Hotel Booking](images/hotel-booking.png)](https://amardelil.github.io/hotel-booking/)
-> Modern hotel booking system with room reservations.
-> **[View Project →](https://amardelil.github.io/hotel-booking/)**
+🔗 **[Live Demo](https://amardelil.github.io/amardelil/)** | 📂 **[View Code](https://github.com/amardelil/amardelil)**
 
 ---
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amardelil&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
-</p>
+### 🔹 Yegna Coffee – Premium Ethiopian Coffee
+[![Yegna Coffee](images/yegna-coffee.png)](https://github.com/amardelil/yegna-coffee)
+> Premium Ethiopian coffee brand landing page with contact form and gallery.
+
+🔗 **[Live Demo](https://amardelil.github.io/yegna-coffee/)** | 📂 **[View Code](https://github.com/amardelil/yegna-coffee)**
+
+---
+
+### 🔹 Ethiopian Salary Calculator
+[![Salary Calculator](images/salary-calculator.png)](https://github.com/amardelil/ethiopian-salary-calculator)
+> Calculate net salary after income tax and pension deductions in Ethiopian Birr.
+
+🔗 **[Live Demo](https://amardelil.github.io/ethiopian-salary-calculator/)** | 📂 **[View Code](https://github.com/amardelil/ethiopian-salary-calculator)**
+
+---
+
+### 🔹 Hotel Booking System
+[![Hotel Booking](images/hotel-booking.png)](https://github.com/amardelil/hotel-booking)
+> Modern hotel booking system with room reservations, availability checking, and payment integration.
+
+🔗 **[Live Demo](https://amardelil.github.io/hotel-booking/)** | 📂 **[View Code](https://github.com/amardelil/hotel-booking)**
 
 ---
 
