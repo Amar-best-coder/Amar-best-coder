@@ -99,9 +99,12 @@
     </td>
   </tr>
 </table>
+
 ---
 
-🚀<b> Featured Projects </b>
+###🚀 Featured Projects 
+
+👇
 
 ### 🔹 Personal Portfolio
 [![Personal Portfolio](images/portfolio.png)](https://github.com/amardelil/amardelil)
