@@ -102,40 +102,29 @@
 </table>
 
 ---
+## 🚀 Featured Projects
 
-### 📸 Featured Projects
+### 🔹 Personal Portfolio
+[![Portfolio](images/portfolio.png)](https://amardelil.github.io/amardelil/)
+> Modern, responsive portfolio with smooth animations.
+> **[View Project →](https://amardelil.github.io/amardelil/)**
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <img src="https://placehold.co/300x180/6A11CB/FFFFFF?text=Personal+Portfolio" alt="Portfolio" width="280" height="160" />
-      <br /><b>🖥️ Personal Portfolio</b>
-      <br /><sub>Modern, responsive design with smooth animations.</sub>
-    </td>
-    <td align="center" width="300">
-      <img src="https://placehold.co/300x180/2575FC/FFFFFF?text=Yoga+Coffee" alt="Coffee Shop" width="280" height="160" />
-      <br /><b>☕ Yoga Coffee Website</b>
-      <br /><sub>Showcasing regional coffee with a clean UI.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://placehold.co/300x180/FF7F50/FFFFFF?text=Salary+Calculator" alt="Calculator" width="280" height="160" />
-      <br /><b>💰 Ethiopian Salary Calculator</b>
-      <br /><sub>Localized utility for tax & salary deductions.</sub>
-    </td>
-    <td align="center" width="300">
-      <img src="https://placehold.co/300x180/4CAF50/FFFFFF?text=Banking+System" alt="Banking" width="280" height="160" />
-      <br /><b>🏦 Personal Banking System</b>
-      <br /><sub>Secure PHP portal with transaction management.</sub>
-    </td>
-  </tr>
-</table>
+### 🔹 Yegna Coffee
+[![Yegna Coffee](images/yegna-coffee.png)](https://amardelil.github.io/yegna-coffee/)
+> Premium Ethiopian coffee brand landing page.
+> **[View Project →](https://amardelil.github.io/yegna-coffee/)**
+
+### 🔹 Ethiopian Salary Calculator
+[![Salary Calculator](images/salary-calculator.png)](https://amardelil.github.io/ethiopian-salary-calculator/)
+> Calculate net salary after tax and pension in Ethiopia.
+> **[View Project →](https://amardelil.github.io/ethiopian-salary-calculator/)**
+
+### 🔹 Hotel Booking System
+[![Hotel Booking](images/hotel-booking.png)](https://amardelil.github.io/hotel-booking/)
+> Modern hotel booking system with room reservations.
+> **[View Project →](https://amardelil.github.io/hotel-booking/)**
 
 ---
-
-
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
