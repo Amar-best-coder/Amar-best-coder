@@ -26,7 +26,6 @@
 ---
 
 ### 🧑‍💻 About Me
-
 <table align="center">
   <tr>
     <td align="center">🎓 3rd Year Computer Science Student</td>
@@ -101,7 +100,8 @@
   </tr>
 </table>
 ---
-## 🚀 Featured Projects
+
+🚀<b> Featured Projects </b>
 
 ### 🔹 Personal Portfolio
 [![Personal Portfolio](images/portfolio.png)](https://github.com/amardelil/amardelil)
